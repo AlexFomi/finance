@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">finance</string>
-    <string name="main_text">Exercise 01 </string>
+    <string name="add_new_item_name">Add new item</string>
+    <string name="operation_name">Name</string>
+    <string name="ruble">₽</string>
 </resources>
